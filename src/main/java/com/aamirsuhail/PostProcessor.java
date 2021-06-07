@@ -2,6 +2,10 @@ package com.aamirsuhail;
 
 import java.util.List;
 
+/**
+ * @author aamirsuhail01@yahoo.cm
+ *
+ */
 public class PostProcessor {
 	
 	public static String htmlBodyBuilder(List<String> resBody) {

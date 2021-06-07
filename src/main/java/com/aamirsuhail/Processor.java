@@ -10,6 +10,10 @@ import org.apache.commons.mail.EmailException;
 import io.restassured.response.Response;
 import io.restassured.response.ResponseBody;
 
+/**
+ * @author aamirsuhail01@yahoo.cm
+ *
+ */
 public class Processor {
 	
 	public static List<String> processor(List<String> urls, List<String> projNameAndDesc) throws EmailException {
