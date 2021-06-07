@@ -1,5 +1,5 @@
 ## Problem statement:
-Every company and the respective teams have their lot of jenkins job running everyday. these jenkins jobs can contain smoke tests, Integration tests, sanity tests etc.these jobs are maintained invidually.for each job, if email is configured, a new email will get triggered after test execution.it takes lot of time to go through each and every job and then analyse the cause of failure and success.To overcome this problem, I have developed this utility.
+Every company and their respective teams have lot of jenkins job running everyday. these jenkins jobs can contain smoke tests, Integration tests, sanity tests etc.these jobs are maintained invidually.for each job, if email is configured, a new email will get triggered after test execution.it takes lot of time to go through each and every job email and then analyse the cause of failure and success.To overcome this problem, I have developed this utility.
 
 ## Solution:
 This utility will solve the above problem. It will fetch the job details from each and every jenkins job and it consolidates all the details and it sends a single email with a table containing details of all the jenkins job. instead of n number of emails for n jenkins job, only one email will get triggered.
