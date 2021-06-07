@@ -10,9 +10,10 @@ This is generic utility where each and every company or any team or any individu
 
 
 ## How To Run It:
-1. In the config.properties file, give all the jenkins jobs urls for which you want to include in the report.
-2. Add the details related to your email
-3. In the app-password, go to your email settings and find apppassword and use that.
+1. Clone this repo
+2. In the config.properties file, give all the jenkins jobs urls for which you want to include in the report and add the details related to your email
+4. In the app-password, go to your email settings and find apppassword and use that.
+5. Run Runner.java file
 
 
 ## Output:
