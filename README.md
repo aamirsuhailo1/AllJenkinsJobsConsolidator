@@ -14,4 +14,4 @@ This is generic utility where each and every company or any team or any individu
 
 
 ## Output:
-please refer to the image attached in the project files
+please refer to the image(AllJenkinsJobsConsolidator.png) attached in the project files
