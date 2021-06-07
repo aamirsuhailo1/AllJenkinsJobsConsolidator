@@ -1,3 +1,5 @@
+![AllJenkinsJobsConsolidator](https://user-images.githubusercontent.com/8610673/120975502-ebc87b00-c78e-11eb-9d4f-7f047e717e0d.png)
+
 ## Problem statement:
 Every company and their respective teams have lot of jenkins job running everyday. these jenkins jobs can contain smoke tests, Integration tests, sanity tests etc.these jobs are maintained invidually.for each job, if email is configured, a new email will get triggered after test execution.it takes lot of time to go through each and every job email and then analyse the cause of failure and success.To overcome this problem, I have developed this utility.
 
